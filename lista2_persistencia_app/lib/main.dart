@@ -42,7 +42,7 @@ class _MainAppState extends State<MainApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('App Lista'),
+        title: Text('Lista'),
         centerTitle: true,//Coloca o titulo no centro
         actions: [
           IconButton(
